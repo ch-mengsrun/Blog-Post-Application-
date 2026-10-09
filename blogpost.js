@@ -117,3 +117,4 @@ window.onload = () => {
     //
     let addPostBtn = document.getElementById("add-post-btn")
     addPostBtn.addEventListener("click", addPost)
+}
