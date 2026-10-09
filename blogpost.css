@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+}
+
+#blog-list {
+    display:grid;
+    gap: 12px;
+    list-style: none;
+    padding: 20px ;
+}
+
+#blog-list li {
+    border: 1px solid white;
+    border-radius: 10px;
+    background: silver;
+    padding: 12px;
+}
+
+#blog-list h3{
+    display: inline;
+    margin-right: 10px;
+}
+
+#blog-post p{
+    margin: 10px 0;
+}
